@@ -31,8 +31,7 @@ jobs:
       # 安装 markdown-pdf 和其他依赖
       - name: Install dependencies
         run: |
-          npm install -g markdown-pdf
-          npm install
+          npm install markdown-pdf
 
       # 运行转换脚本
       - name: Convert Markdown to PDF
