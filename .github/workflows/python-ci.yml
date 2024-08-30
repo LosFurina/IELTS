@@ -1,0 +1,50 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert-md-to-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 设置 Node.js 环境
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      # 缓存 Node.js 的依赖
+      - name: Cache Node.js modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      # 安装 markdown-pdf 和其他依赖
+      - name: Install dependencies
+        run: |
+          npm install -g markdown-pdf
+          npm install
+
+      # 运行转换脚本
+      - name: Convert Markdown to PDF
+        run: .github/workflows/convert-md-to-pdf.js
+
+      # 推送生成的 PDF 文件回仓库
+      - name: Push converted files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add pdf/
+          git commit -m "Convert Markdown to PDF"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
