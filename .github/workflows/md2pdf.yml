@@ -33,6 +33,10 @@ jobs:
         run: |
           npm install markdown-pdf
 
+
+      - name: Make script executable
+        run: chmod +x script/js/convert-md-to-pdf.js
+
       # 运行转换脚本
       - name: Convert Markdown to PDF
         run: script/js/convert-md-to-pdf.js
