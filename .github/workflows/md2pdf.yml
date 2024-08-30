@@ -35,7 +35,7 @@ jobs:
 
       # 运行转换脚本
       - name: Convert Markdown to PDF
-        run: .github/workflows/convert-md-to-pdf.js
+        run: srript/js/convert-md-to-pdf.js
 
       # 推送生成的 PDF 文件回仓库
       - name: Push converted files
