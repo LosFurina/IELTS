@@ -8,7 +8,7 @@
 
 With the development of transportation, it is becoming more and more convenient for people to purchase some ~~stuffs~~ <span style="color:red">products</span> produced overseas, which is an ~~unstopped~~ <span style="color:red">  unstoppable</span> trend for globalization. From ~~the~~ <span style="color:red">a</span> personal view, the advantages of this phenomenon ~~overweight~~ <span style="color:red">overweigh</span> the disadvantages.
 
-The main reason<span style="color:red">s</span> for supporting buying products from overseas ~~are~~ focus~~ing~~ on two points. Firstly, ~~the~~ people could purchase some ~~stuffs~~ <span style="color:red">comedies more</span> cheap~~er~~<span style="color:red">ly</span> if they choose those from overseas. Since different countries or regions ~~own~~ <span style="color:red">have</span> ~~the different technics~~ <span style="color:red">unique technologies</span> and resources ~~uniquely~~, so they could manufacture those products with ~~less~~ <span style="color:red">lower additional</span>  ~~extra~~ expense ~~like~~ <span style="color:red">, such as</span> transportation fee<span style="color:red">s</span> and knowledge ~~fee~~ <span style="color:red">costs</span>. For that,  the final ~~producing~~<span style="color:red">production</span> cost could be much ~~less~~ <span style="color:red">lower</span> than <span style="color:red">in</span> other countries. For instance, ~~with~~<span style="color:red">due to</span> the advantageous ~~of~~ location of Southeast Asia, the agriculture of tropical fruits is developed, the fruit from there are less expensive ~~with~~ <span style="color:red">and of</span> high ~~qualification~~ <span style="color:red">quality</span>.  On the other hand, for some products, oversea<span style="color:red">s</span> market offers more choices for people to select <span style="color:red">from</span>. Therefore, people could purchase ~~the~~ different kinds ~~of it~~ ~~by following~~ <span style="color:red">based on</span> their own ~~prefer~~ <span style="color:red">preferences</span>. Taking the smartphone as an example, people may prefer different brands, for those who enjoy ~~the~~ <span style="color:red">a</span> tidy of operation system could buy iPhone, those who are the fans of photography could choose Sony.
+The main reason<span style="color:red">s</span> for supporting buying products from overseas ~~are~~ focus~~ing~~ on two points. Firstly, ~~the~~ people could purchase some ~~stuffs~~ <span style="color:red">commodities more</span> cheap~~er~~<span style="color:red">ly</span> if they choose those from overseas. Since different countries or regions ~~own~~ <span style="color:red">have</span> ~~the different technics~~ <span style="color:red">unique technologies</span> and resources ~~uniquely~~, so they could manufacture those products with ~~less~~ <span style="color:red">lower additional</span>  ~~extra~~ expense ~~like~~ <span style="color:red">, such as</span> transportation fee<span style="color:red">s</span> and knowledge ~~fee~~ <span style="color:red">costs</span>. For that,  the final ~~producing~~<span style="color:red">production</span> cost could be much ~~less~~ <span style="color:red">lower</span> than <span style="color:red">in</span> other countries. For instance, ~~with~~<span style="color:red">due to</span> the advantageous ~~of~~ location of Southeast Asia, the agriculture of tropical fruits is developed, the fruit from there are less expensive ~~with~~ <span style="color:red">and of</span> high ~~qualification~~ <span style="color:red">quality</span>.  On the other hand, for some products, oversea<span style="color:red">s</span> market offers more choices for people to select <span style="color:red">from</span>. Therefore, people could purchase ~~the~~ different kinds ~~of it~~ ~~by following~~ <span style="color:red">based on</span> their own ~~prefer~~ <span style="color:red">preferences</span>. Taking the smartphone as an example, people may prefer different brands, for those who enjoy ~~the~~ <span style="color:red">a</span> tidy of operation system could buy iPhone, those who are the fans of photography could choose Sony.
 
 In contrast, ~~that~~ <span style="color:red">this</span> is not ~~a~~ good news for domestic ~~industrial~~ <span style="color:red">industries</span>. It is undeniable that some oversea<span style="color:red">s</span> products bring the convenience and cheap price for people, but it also will have impact on ~~same type~~ domestic industrials <span style="color:red">of the same type</span>, they ~~have to~~ <span style="color:red">may</span> face the challenge from foreign companies, which means some people have to face the risk~~s~~ of unemployment. Besides, it is also inevitable that buying products from overseas could cause more global transports, further~~ly~~ ~~leading~~ <span style="color:red">contributing</span> to the more ~~pollution of environment~~ <span style="color:red">environmental pollution</span>, which will degrade the air condition and so on.
 
@@ -16,10 +16,10 @@ It is ~~there~~ reasonable to reckon <span style="color:red">(or believe) </spa
 
 ## Example of G
 
-| **1.**   **随着世界越来越国际化** **(globalized),** **国家之间商品的流通** **(exchange)** **以惊人的速度** **(at an astonishing rate)** **进行着****.**  **As the world is  increasingly globalized****, the exchange of commodities across the border is proceeding at an  astonishing rate.** |      |
+| **1.**   **随着世界越来越国际化** **(globalized),** **国家之间商品的流通** **(exchange)** **以惊人的速度** **(at an astonishing rate)** **进行着**. <br/>As the world is  increasingly globalized, the exchange of commodities across the border is proceeding at an  astonishing rate. |      |
 | ------------------------------------------------------------ | ---- |
-| **2.**   **这已经激发** **(sparked)** **关于** **“****进口商品的增加是否具有负面** **(adverse)****影响****”** **的争论**  **(controversy)**  **It has sparked  controversy over whether** **the increase in imports has adverse impacts.** |      |
-| **3.**   **在我看来** **(from my point of view),** **这一做法的优点多于缺点****.**  **From my point of  view****,  this practice’s advantages outweigh its disadvantages.** |      |
+| **2.**   **这已经激发** **(sparked)** **关于** **“****进口商品的增加是否具有负面** **(adverse)****影响****”** **的争论**  **(controversy)**  <br />**It has sparked  controversy over whether** **the increase in imports has adverse impacts.** |      |
+| **3.**   **在我看来** **(from my point of view),** **这一做法的优点多于缺点  From my point of  view,  this practice’s advantages outweigh its disadvantages. |      |
 | **主体部分第一段**                                           |      |
 | **4.**   **进口商品有不少好处****.** **第一个好处是虽然运输费用高****,** **但是价格仍然很有竞争力****.**  **[****大中心句****] Importing goods can yield a number of  benefits.**   **[****小中心句****] The first benefit is that** **despite the high cost of  transportation, imports are competitively priced.** |      |
 | **5.**   **主要的原因是出口这些商品的国家一般都有技术和专业知识去保证这些产品质量好****,** **而且便宜** **(affordability).**  **The main reason  is that** **the  countries that export these goods normally have technology and professional  knowledge to ensure the goods’ quality and affordability.** |      |
@@ -45,3 +45,29 @@ One major advantage of this development is the increased variety of products ava
 However, the influx of foreign products can negatively impact domestic industries. Local businesses may struggle to compete with cheaper, imported goods, leading to potential job losses and economic challenges. Additionally, the environmental impact of increased global transportation cannot be overlooked, as it contributes to pollution and climate change. Despite these issues, I believe the overall benefits, such as access to a wider range of affordable products, are more significant. Governments can also implement policies to support local industries and promote sustainable practices, mitigating the negative effects.
 
 In conclusion, while buying products from other countries poses challenges, the advantages—such as greater consumer choice and affordability—are far more substantial. With careful management, this trend can continue to benefit consumers without undermining domestic economies.
+
+## Key Words
+
+**Unstoppable trend in globalization**
+
+**Advantages outweigh the disadvantages**
+
+**Support buying products from overseas**
+
+**Purchase products more cheaply**
+
+**High quality and reasonably priced**
+
+**Overseas market offers more choices**
+
+**Different smartphone brands**
+
+**Not good news for domestic industries**
+
+**Convenience and lower prices**
+
+**Impact on domestic industries**
+
+**Leads to environmental pollution**
+
+**Accept imported products with caution**
